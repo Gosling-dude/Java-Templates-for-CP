@@ -72,7 +72,6 @@ Feel free to use the codes — and if you find any bugs, don’t hesitate to rep
 
 ## 🧪 Miscellaneous
 
-- [Stress Testing Utilities](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/testing/)  
 - [Java Template for Competitive Programming](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Main.java)
 
 ---
