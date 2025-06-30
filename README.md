@@ -1,197 +1,117 @@
-  
+# 🚀 Competitive Programming in Java
 
+ ### ⭐ If this repository helped you even a little, consider giving it a star!
 
+ ---
 
+This repository contains essential **data structures** and **algorithms** implemented in Java for competitive programming.
 
+🔗 I'm `SumitXorY` / `sumit_chauhan` on coding platforms:  
+[📘 Codeforces](https://codeforces.com/profile/SumitXorY) | [🍛 CodeChef](https://www.codechef.com/users/sumit_chauhan)
 
-# Competitive Programming in Java
+Feel free to use the codes — and if you find any bugs, don’t hesitate to report them!
 
-![cp_icon](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Competitive-Programming.jpg)  
+---
 
-- If this repo gave you even a tiny smidge of joy or help, hit it with a shiny star ⭐! 
-
-- This repository contains all the important data structures and algorithms that I use in Competitive Programming. 
-
-- I have ```cis_pie``` as my username on all coding platforms. You can view me on [Codechef](https://www.codechef.com/users/cis_pie) or [Codeforces](https://codeforces.com/profile/cis_pie).  
-
-- Feel free to use these codes and let me know if you find any bug.
-
-
-
-
-### Links
+## 📂 Contents
 
 <details>
-<summary> Data Structures </summary>
+<summary><strong>🧱 Data Structures</strong></summary>
 
- - [Next smaller and bigger element using Stack in array O(n)](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/nextSmallerBigger.java)
+- [Next Smaller & Bigger Element using Stack (O(n))](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/nextSmallerBigger.java)  
+- [Disjoint Set (Union-Find)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/DisjointSet.java)  
+- [Centroid Decomposition](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/centroid.java)  
+- [Lowest Common Ancestor (LCA)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/lca.java)  
+- [Virtual Tree](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/virtualTree.java)  
+- [Fenwick Tree / Binary Indexed Tree (BIT)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/BIT.java)  
+- [Segment Tree - Basic](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/SegmentTree.java)  
+- [Segment Tree - Range Updates (Add)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/SegmentTree_Lazy_add.java)  
+- [Segment Tree - Range Updates (Assign)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/SegmentTree_Lazy_Assign.java)  
+- [Kth Order Statistic on Subarray (No Updates)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/SegmentTree_KthOrder.java)
 
-
- - [Disjoint Set Data Structure using Arrays](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/DisjointSet.java)
-
- - [ Centroid Decomposition ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/centroid.java)
-  
-
-
-- [LCA - Lowest Common Ancestor](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/lca.java)
-
-- [Virtual Tree](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/virtualTree.java)
-
-- [ BIT/ Fenwick Tree ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/BIT.java)
-
-
-
-- [Segment Tree : Basic](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/SegmentTree.java)
-
-- [Segment Tree : Range Updates (add)](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/SegmentTree_Lazy_add.java)
-
-- [ Segment Tree : Range Updates (assign)](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/SegmentTree_Lazy_Assign.java)
-
-- [ Segment Tree : Kth Order statistic on subarray (No updates allowed)](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/SegmentTree_KthOrder.java)
-
-
-  
 </details>
 
 <details>
+<summary><strong>📌 Algorithms</strong></summary>
 
-<summary> Algorithms </summary>
+- [Abstract Binary Search](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Absract_Binary_Search.java)  
+- [Breadth-First Search (BFS)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/bfs.java)  
+- [Depth-First Search (DFS)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/dfs.java)  
+- [Kruskal's Algorithm using DSU](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/kruskal_disjoint.java)  
+- [Dijkstra's Algorithm using PriorityQueue](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Dijkstra.java)  
+- [Floyd-Warshall (All-Pairs Shortest Path)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/all_pair.java)  
+- [LIS (Longest Increasing Subsequence) - O(n log n)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/LIS.java)  
+- [PIE (Principle of Inclusion-Exclusion)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/inclu_exclu.java)  
 
-- [ Binary Search](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Absract_Binary_Search.java)
-
-- [BFS](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/bfs.java)
-
-- [DFS](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/dfs.java)
-
-- [Kruskal's MST Algorithm using Disjoint Set Union](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/kruskal_disjoint.java)
-
-
-- [Dijkstra using Priority Queue](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Dijkstra.java)
-
-- [ Floyd Warshalls  (with all shortest paths )](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/all_pair.java)
-
-
-- [LIS : Longest Increasing Subsequence O(nlogn) ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/LIS.java)
-
-- [PIE : Principle of Inclusion Exclusion](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/inclu_exclu.java)
-
-
-
-
-
-
-
- 
-  
-</details>
-
-
-<details>
-<summary> Strings </summary>
-
-- [String hashing - Rolling Polynomial Hash](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/stringHash.java)
 </details>
 
 <details>
-<summary> Maths related </summary>
+<summary><strong>🧵 Strings</strong></summary>
 
- - [Sieve for finding prime numbers  n<=10^7](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/sieve.java)
-
-- [ Handling Fractions](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/fractions.java)
-
-
-- [Rounding Doubles to x-places](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/roundDouble.java)
-
-
-- [Geometry -Segments Intersections and Polygon Area from Co-ordinates](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Geomtry.java)
-
-- [Geometry -Closest pair of Points ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/closestPairPoints.java)
-
-- [nCr with mod](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/nCr.java)
-
-- [Next Permutation for n! permutations (C++ equivalent)](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/next_permut.java)
-
-- [Selection Of r Things from n things ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/select_r_things.java)
-
-
-- [Power function -Modular ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/power.java)
-
-- [Matrix Exponentiation ](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/matrix_Exponentiation.java)
-
-
+- [String Hashing - Rolling Polynomial Hash](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/stringHash.java)
 
 </details>
 
-<br>
+<details>
+<summary><strong>🧮 Math</strong></summary>
 
-**Miscellaneous**
+- [Sieve of Eratosthenes (n ≤ 10⁷)](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/sieve.java)  
+- [Fraction Handling](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/fractions.java)  
+- [Rounding Doubles](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/roundDouble.java)  
+- [Geometry: Segments, Intersections, Polygon Area](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Geomtry.java)  
+- [Closest Pair of Points](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/closestPairPoints.java)  
+- [nCr with Modulo](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/nCr.java)  
+- [Next Permutation](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/next_permut.java)  
+- [Selecting r Things from n Things](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/select_r_things.java)  
+- [Modular Power Function](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/power.java)  
+- [Matrix Exponentiation](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/matrix_Exponentiation.java)
 
-- [Stress Testing](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/testing/)
+</details>
 
-- [Java template for Competitive Programming](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Main.java)
+---
 
+## 🧪 Miscellaneous
 
+- [Stress Testing Utilities](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/testing/)  
+- [Java Template for Competitive Programming](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Main.java)
 
+---
 
+## ⚡ Fast I/O for Java: [Template](https://github.com/Gosling-dude/Java-Templates-for-CP/blob/master/Main.java)
 
+Inspired by [uwi](https://codeforces.com/profile/uwi), this I/O template greatly improves Java input/output speed for contests.
 
+### 🔧 Highlights
+- Avoids slow `Scanner` and `BufferedReader`.
+- No more TLE due to I/O after switching to this.
+- Write your logic inside `solve()` — `main()` calls it.
 
+---
 
+## 📘 Template Documentation
 
+### 🔹 Input Methods
+```java
+int x = ni();             // next int
+long y = nl();            // next long
+double d = nd();          // next double
+String s = ns();          // next string
+char c = nc();            // next char
+int[] arr = na(n);        // array of size n
+char[][] grid = nm(n, m); // character matrix
+```
 
+### 🔹 Output Methods
+```java
+pn(obj); // println
+p(obj);  // print
 
- 
-## Fast IO for JAVA : [Template](https://github.com/Kadam-Tushar/Data-Structures-and-Algorithms-in-Java/blob/master/Main.java).
- - Taken this template from legendary coder 
- [uwi](https://codeforces.com/profile/uwi)
- - Java is a little bit slower than C++/C and the main factor behind this is slow console input/output.
+```
 
-- Java's Scanner, as well as BufferedReader class, is too slow. So the best option is creating your own input-output classes.
-
-- I had never faced Time Limit Exceed Error (i.e  Code  takes too much time because of an inefficient/wrong algorithm ) after I started using this template. 
-
-
-- To use this template you have to write all your code in solve() method.
-
-- From main() method we are calling solve() method which is supposed to solve the asked problem.
-
-
-## Documentation of methods from this template :
-
- - **INPUT METHODS**
-
-      - ```int x=ni()``` -to input single number  Short form of nextInt()
-
-      - ```long x=nl() ```  -to input long number nextLong()
-
-      - ```double x=nd()``` - to input double values nextDouble()
-
-      - ```String x=ns()``` - to input string nextString()
-
-      - ```char x=nc()``` - to input character  nextChar()
-
-      - ```int[] arr=na(int n)```  -to input array of size n i.e parameter is integer with  value n. It will allocate a new array and return its reference. nextArray()
-
-      - ```char [][] matrix =nm(int n,int m)``` this is method is used tor inputing character matrix nextMatrix()
-      - Refer [this](https://github.com/Kadam-Tushar/Competitive-Programming-in-Java/issues/1) for inputs which are EOF terminated. 
-
- 
-
-- **OUTPUT METHODS**
-
-  - ```pn(Object o)``` - method is used to print anthing on console the parameter is Object is you can pass anthing. It is similar as ```System.out.println()```.
-                              
-  - ```p(Object o)```- Similar as ```System.out.print()```
-
-- **UTILITY FUNCTIONS**
-
-  - ```int x=max( int[] arr)```  -it will find max element from array.
-
-  - ```int y=min(int [] arr)``` it will find min element from array.
-
-  - ```int g=gcd(x,y)``` for finding gcd.
-
-  - Implemented pair class because there is no inbuilt pair class.
-      You can use the pair in Hashed Collections as well as Tree Collections because ```hashCode()``` and ```compareTo()``` methods are implemented in this pair class.
-
-
+### 🔹 Utilities
+```java
+int maxVal = max(arr);   // max from array
+int minVal = min(arr);   // min from array
+int g = gcd(x, y);       // gcd of two numbers
+```
+Includes a custom Pair class supporting hashing and sorting — usable in HashSets, HashMaps, and TreeMaps.
