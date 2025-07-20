@@ -1,5 +1,4 @@
 // directly usable code : 
-
 public class DisjointSet {
     private final int[] parent;
     private final int[] rank;
@@ -41,11 +40,9 @@ public class DisjointSet {
 }
 
 
-
-// ########################################################################################################################################################################## //
-
-
 // this is for understanding purpose :
+
+
 class DSU {
 
     int[] parent;
